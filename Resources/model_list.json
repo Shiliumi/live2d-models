@@ -1,0 +1,8 @@
+{
+  "models": [
+    ["LSS", "Roxy_V1"]
+  ],
+  "messages": [
+    ["你好，我是 LSS", "你好，我是 Roxy_V1"]
+  ]
+}
