@@ -1,10 +1,10 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "LSS.moc3",
-		"Textures": [
-			"LSS.4096/texture_00.png"
-		],
+    "Moc": "LSS.moc3",
+    "Textures": [
+      "LSS.4096/texture_00.webp"
+    ],
 		"Physics": "LSS.physics3.json",
 		"DisplayInfo": "LSS.cdi3.json"
 	},
